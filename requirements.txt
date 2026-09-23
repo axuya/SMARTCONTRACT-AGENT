@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+langchain
+langchain-core
+langchain-openai
+langchain-ollama
+python-dotenv
+slither-analyzer
+solc-select
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+pytest
